@@ -55,20 +55,20 @@
 					</span> <span class="login100-form-title p-b-34 p-t-27"> Register </span>
 
 					<div class="input-group">
-						ID : <input type="text" name="ID"
+						ID : <input type="text" name="userID"
 							style="padding: 0px 0px 0px 10px; background-color: transparent;">
 					</div>
 
 					<br>
 
 					<div class="input-group">
-						PW : <input type="password" name="password"
+						PW : <input type="password" name="userPW"
 							style="padding: 0px 0px 0px 10px; background-color: transparent;">
 					</div>
 
 					<br>
 					<div class="input-group">
-						Name : <input type="text" name="name"
+						Name : <input type="text" name="userNAME"
 							style="padding: 0px 0px 0px 10px; background-color: transparent;">
 					</div>
 					<br>
