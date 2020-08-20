@@ -71,12 +71,7 @@
 						Name : <input type="text" name="userNAME"
 							style="padding: 0px 0px 0px 10px; background-color: transparent;">
 					</div>
-					<br>
-
-					<div class="input-group">
-						Age : <input type="number" name="age"
-							style="padding: 0px 0px 0px 10px; background-color: transparent;">
-					</div>
+					
 					<br>
 
 					<div class="input-group">
